@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <rect width="100%" height="100%" fill="#00BDD4" rx="12"/>
+  <g fill="#fff" font-family="sans-serif">
+    <text x="50" y="120" font-size="36" font-weight="700">PrimeAssist</text>
+    <text x="50" y="170" font-size="18">Branding · Design · Marketing</text>
+  </g>
+</svg>
